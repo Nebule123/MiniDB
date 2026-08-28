@@ -1,0 +1,24 @@
+# CMake build output
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build.ninja
+.ninja_*
+
+# Compiled binaries
+*.exe
+*.obj
+*.o
+*.dll
+*.a
+
+# Local runtime data
+minidb_data*.txt
+database_test_*.txt
+
+# Editor and machine-specific files
+.vscode/
+.claude/
+tempCodeRunnerFile.cpp
+start-vscode-with-proxy.ps1
